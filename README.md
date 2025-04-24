@@ -1,6 +1,8 @@
 # huawei-code-craft2025
 
-2025华为软件精英挑战赛全球总决赛亚军 0b1000100 题解。主要代码在 `src` 目录下面。由于决赛时间较短，单人作战时间还是比较紧，决赛第二阶段基本上没能利用上离线的性质。如有需要可以参考本次比赛冠军也是我 ACM 队友 [知乎@孙咖啡](https://www.zhihu.com/people/sun-ming-zhi-91) 的代码 [https://github.com/sunkafei/huawei-software-challenge2025](https://github.com/sunkafei/huawei-software-challenge2025)。
+2025华为软件精英挑战赛全球总决赛亚军 0b1000100 题解。（本人大部分借鉴并进行一定修改）主要代码在 `src` 目录下面。
+原创链接：https://github.com/yulemao/huawei-code-craft2025
+另附冠军链接[知乎@孙咖啡](https://www.zhihu.com/people/sun-ming-zhi-91) 的代码 [https://github.com/sunkafei/huawei-software-challenge2025](https://github.com/sunkafei/huawei-software-challenge2025)。
 
 `solution.cpp` 本意是为第二阶段重新设计算法使用的，但是实际并未做太多改动，因此有较多代码和 `main.cpp` 是重复的，具体针对第二阶段的优化可以参考题解中的说明。
 
