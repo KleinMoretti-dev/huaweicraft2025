@@ -110,6 +110,7 @@ int disk_size[MAX_DISK_NUM];
 int disk_pointer[MAX_DISK_NUM][POINTER_NUM];
 vector <int> disk_reqs[MAX_DISK_NUM][MAX_DISK_SIZE];
 int disk_reqs_activate[MAX_DISK_NUM][MAX_DISK_SIZE];
+
 int timestamp;
 
 int savedata[MAX_TAG_NUM][MAX_TOTAL_TIME] = {};
